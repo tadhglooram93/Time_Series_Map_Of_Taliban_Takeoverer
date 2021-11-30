@@ -1,0 +1,399 @@
+District	HASC	Code	Population	Capital	Former
+Ab Band	AF.GZ.AB	0611	19,746	Hajikhel	
+Ab Kamari	AF.BG.AK	1902	39,169		
+Achin	AF.NG.AC	0810	72,296		
+Adraskan	AF.HR.AD	2011	32,911		
+Ahmadabad	AF.PT.AH	0705			Sayid Karam
+Ajristan	AF.GZ.AJ	0605	23,199	Sangar	
+Alasay	AF.KP.AL	0206	27,731		
+Ali Abad	AF.KZ.AA	1405	40,140		
+Alingar	AF.LA.AN	0903	7,208		
+Alishing	AF.LA.AS	0907	60,858		
+Almar	AF.FB.AL	1803	21,905		
+Anar Dara	AF.FH.AD	2107	22,012		
+Andar	AF.GZ.AN	0614	89,237	Miray	
+Andarab	AF.BL.AN	1307	46,938		
+Andkhoy	AF.FB.AN	1812	39,385		
+Aqcha	AF.JW.AQ	1706	89,992		
+Archi	AF.KZ.DA	1407	84,381	Dasht-e Archa	
+Arghandab	AF.KD.AD	2404	61,829		
+Arghandab	AF.ZB.AR	2503	27,084		
+Arghanj Khwa	AF.BD.AK	1114	(12,200)		Kishim, Fayz Abad
+Arghistan	AF.KD.AS	2412	28,595		
+Argo	AF.BD.AR	1115	(45,200)		Fayz Abad
+Asad Abad	AF.KR.AA	1001	57,189		
+Atghar	AF.ZB.AT	2508	7,230		
+Aybak	AF.SM.AY	1501	80,496		
+Azra	AF.LW.AZ	0506	19,315		PT
+Baghlani Jadid	AF.BL.BJ	1312	159,914		
+Baghran	AF.HM.BU	2305	67,548		
+Bagram	AF.PV.BA	0308	97,761		
+Bagrami	AF.KB.BA	0110	24,710		
+Baharak	AF.BD.BA	1108	61,937		
+Baharak	AF.TK.BK	1213	(7,800)		Taluqan
+Bahrami Shahid	AF.GZ.BA	0602	43,270	Bahram	Jaghatu (Waeez Shahid)
+Bak	AF.KT.BA	3210	9,819		
+Bakwa	AF.FH.BA	2102	19,854	Soltan-e Bakva	
+Bala Buluk	AF.FH.BB	2105	47,801		
+Balkh	AF.BK.BA	1606	100,998		
+Balkhab	AF.SP.BA	3104	40,140		
+Bamyan	AF.BM.BA	2801	67,548		
+Bangi	AF.TK.BA	1202	30,645		
+Baraki Barak	AF.LW.BB	0503	63,555		
+Bargi Matal	AF.NR.BM	3005	8,417		
+Bar Kunar	AF.KR.BK	1003	21,473		
+Barmal	AF.PK.BU	2909	28,810		
+Bati Kot	AF.NG.BK	0817	55,894	Nader Shah Kawt	
+Bazarak	AF.PJ.BA	3301			Hisa-i-Awali Panjsher
+Bihsud	AF.NG.BI	0821	(72,800)		Jalal Abad
+Bilchiragh	AF.FB.BI	1806	37,659		
+Burka	AF.BL.BU	1310	49,204		
+Chaghcharan	AF.GR.CH	2701	128,514		
+Chah Ab	AF.TK.CA	1209	30,645		
+Chahar Asyab	AF.KB.CA	0109	35,393	Qaleh-ye Na'im	
+Chahar Bolak	AF.BK.CB	1607	65,498		
+Chahar Burjak	AF.NM.CB	2203	35,932		
+Chahar Dara	AF.KZ.CD	1404	60,534		
+Chaharikar	AF.PV.CH	0301	156,461		
+Chahar Kint	AF.BK.CK	1611	42,406		
+Chakhansur	AF.NM.CH	2204	28,595		
+Chaki Wardak	AF.VR.CH	0406	56,758	Chak	Chak
+Chal	AF.TK.CL	1204	22,228		
+Chamkani	AF.PT.CH	0718	24,926		
+Chapa Dara	AF.KR.CD	1010	23,199		
+Chaparhar	AF.NG.CH	0806	43,701		
+Charkh	AF.LW.CH	0502	49,744		
+Charsada	AF.GR.CD	2708	(15,100)		Chaghcharan
+Chawkay	AF.KR.CH	1013	30,968		
+Chimtal	AF.BK.CM	1608	71,864		
+Chishti Sharif	AF.HR.CS	2015	14,028		
+Chora	AF.OZ.CH	2602	34,637		
+Dahana-i-Ghori	AF.BL.DG	1303	54,707		
+Daman	AF.KD.DM	2402	24,494		
+Dand wa Patan	AF.PT.DP	0717	14,459		
+Dangam	AF.KR.DA	1004	12,733		
+Dara	AF.PJ.DA	3302			Hisa-i-Duwumi Panjsher
+Dara-i-Nur	AF.NG.DN	0820	39,709		
+Dara-i-Pech	AF.KR.DP	1011	46,615		
+Dara-i-Suf	AF.SM.DS	1504	118,694		
+Dara-i-Sufi Bala	AF.SM.DB	1503	(56,000)		Dara-i-Suf
+Darayim	AF.BD.DY	1116	(66,100)		Fayz Abad
+Darqad	AF.TK.DA	1211	18,775		
+Darwaz	AF.BD.DA	1110	21,365	Nusai	
+Darwazi Bala	AF.BD.DB	1117	(10,700)		Darwaz
+Darzab	AF.JW.DA	1703	59,024		
+Dashti Qala	AF.TK.DQ	1214	(17,000)		Khwaja Ghar
+Dawlat Abad	AF.BK.DA	1605	94,308		
+Dawlat Abad	AF.FB.DA	1809	38,630		
+Dawlat Shah	AF.LA.DS	0906	31,184		
+Dawlat Yar	AF.GR.DY	2709	(20,900)		Chaghcharan
+Daychopan	AF.ZB.DA	2504	54,276		
+Day Mirdad	AF.VR.DA	0405	22,768		
+Dih Bala	AF.NG.DL	0808	34,098		
+Dihdadi	AF.BK.DI	1612	46,722		
+Dihrawud	AF.OZ.DI	2609	51,578		
+Dih Sabz	AF.KB.DS	0102	43,270	Tarakhel	
+Dih Salah	AF.BL.DS	1313	(24,100)		Andarab
+Dih Yak	AF.GZ.DI	0615	37,011	Ramak	
+Dila	AF.PK.DI	2903	20,825		
+Dishu	AF.HM.DI	2311	16,941		
+Du Ab	AF.NR.DA	3007	(7,000)		Kamdesh
+Du Layna	AF.GR.DL	2710	(18,900)		Chaghcharan
+Dur Baba	AF.NG.DB	0812	25,573		
+Dushi	AF.BL.DO	1304	54,060		
+Farah	AF.FH.FH	2101	73,914		
+Farang wa Gharu	AF.BL.FG	1314	(12,100)		Khost wa Firing
+Farkhar	AF.TK.FA	1206	37,659		
+Farsi	AF.HR.FA	2013	22,876		
+Farza	AF.KB.FS	0115	(21,200)		Mirbacha Kot
+Fayz Abad	AF.BD.FA	1101	194,335		
+Fayz Abad	AF.JW.FA	1708	35,608		
+Feroz Nakhchir	AF.SM.FN	1507	(10,300)		Khulm, BK
+Gardez	AF.PT.GA	0701	64,203		
+Garmser	AF.HM.GA	2312	72,835		
+Gayan	AF.PK.GA	2910	28,810		
+Gelan	AF.GZ.GE	0609	44,241		
+Ghazi Abad	AF.KR.GA	1006	(7,500)		Nurgal
+Ghazni	AF.GZ.GH	0601	1,090,478		
+Ghorak	AF.KD.GH	2406	7,877		
+Ghorband	AF.PV.GH	0305	87,294		
+Ghormach	AF.BG.GH	1905	38,953		
+Ghoryan	AF.HR.GH	2009	52,549		
+Giro	AF.GZ.GI	0612	22,444	Pana	
+Gizab	AF.DK.GI	3402	54,168		OZ
+Gomal	AF.PK.GO	2906	6,366		
+Gosfandi	AF.SP.GO	3107			Sayyad
+Goshta	AF.NG.GO	0816	14,351		
+Guldara	AF.KB.GD	0113	24,171		
+Gulistan	AF.FH.GU	2103	23,091		
+Gulran	AF.HR.GL	2007	48,557		
+Gurbuz	AF.KT.GU	3211	13,488		
+Gurziwan	AF.FB.DR	1807	(54,600)	Darzab	Bilchiragh
+Guzara	AF.HR.GZ	2003	109,738		
+Guzargahi Nur	AF.BL.GN	1315	(7,200)		Khost wa Firing
+Hazar Sumuch	AF.TK.HS	1215	(13,600)		Taluqan
+Hazrati Sultan	AF.SM.HS	1502	33,990		
+Hirat	AF.HR.HI	2001	238,144		
+Hisa-i-Awali Bihsud	AF.VR.HB	0403	36,903		
+Hisa-i-Awali Panjsher	AF.PJ.HA	3303	47,046		
+Hisa-i-Duwumi Kohistan	AF.KP.PJ	0207	(32,600)		Kohistan
+Hisarak	AF.NG.HI	0803	23,199		
+Imam Sahib	AF.KZ.HI	1402	182,466	Hazrati Imam	
+Injil	AF.HR.IN	2002	197,680		
+Ishkamish	AF.TK.IS	1203	46,938		
+Ishkashim	AF.BD.IK	1107	10,467		
+Ishtarlay	AF.DK.IS	3403			Daykundi, OZ
+Istalif	AF.KB.IS	0106	39,709		
+Jabalussaraj	AF.PV.JA	0302	101,861		
+Jadran	AF.PT.JD	0704	21,581		
+Jaghatu	AF.VR.JG	0409	63,124		GZ
+Jaghuri	AF.GZ.JR	0607	142,541	Sange Masha	
+Jaji	AF.PT.JJ	0723	44,241		
+Jaji Maydan	AF.KT.JM	3202	17,912		
+Jalal Abad	AF.NG.JA	0801	177,502		
+Jalrez	AF.VR.JL	0402	43,485		
+Jani Khel	AF.PK.JK	2916	(20,000)		Zarghun Shahr
+Jani Khel	AF.PT.JK	0716	18,020		
+Jawand	AF.BG.JA	1904	53,089		
+Jurm	AF.BD.JU	1103	76,072		
+Kabul	AF.KB.KB	0101	2,306,125		
+Kahmard	AF.BM.KA	2803	46,507		BL
+Kajaki	AF.HM.KA	2303	59,131		
+Kajran	AF.DK.KA	3404	56,650		OZ
+Kakar	AF.ZB.KA	2510	(20,200)		Arghandab
+Kalafgan	AF.TK.KA	1207	30,753		
+Kalakan	AF.KB.KL	0104	32,695		
+Kaldar	AF.BK.KA	1613	15,646		
+Kama	AF.NG.KA	0818	76,396		
+Kamdesh	AF.NR.KA	3002	13,272		
+Kandahar	AF.KD.KA	2401	445,104		
+Kang	AF.NM.KA	2202	23,955		
+Karukh	AF.HR.KA	2005	46,507		
+Khadir	AF.DK.KH	3405			Daykundi, OZ
+Khaki Jabbar	AF.KB.KJ	0111	16,725		
+Khaki Safed	AF.FH.KS	2106	16,725		
+Khakrez	AF.KD.KH	2405	18,883		
+Khamyab	AF.JW.KM	1709	10,575		
+Khan Abad	AF.KZ.KA	1406	148,584		
+Khani Chahar Bagh	AF.FB.KC	1811	21,905		
+Khaniqa	AF.JW.KN	1710			Aqcha
+Kharwar	AF.LW.KW	0507	(16,700)		Charkh
+Khash	AF.BD.KH	1118	(49,000)		Jurm
+Khash Rod	AF.NM.KR	2205	18,559		
+Khas Kunar	AF.KR.KK	1015	26,760		
+Khas Uruzgan	AF.OZ.KU	2603	56,758	Uruzgan	
+Khinjan	AF.BL.KH	1306	24,171		
+Khogyani	AF.NG.KH	0805	106,609		
+Khost	AF.KT.KH	3201	70,246		
+Khost wa Firing	AF.BL.KF	1308	48,017		
+Khulm	AF.BK.KH	1614	73,914		
+Khuram wa Sarbagh	AF.SM.KS	1506	35,824		
+Khushi	AF.LW.KH	0504	25,142		
+Khwahan	AF.BD.KW	1111	13,488		
+Khwaja Bahawuddin	AF.TK.KB	1216	(11,800)		Yangi Qala
+Khwaja Du Koh	AF.JW.KO	1702	26,221		
+Khwaja Ghar	AF.TK.KG	1212	66,253		
+Khwaja Hijran	AF.BL.KW	1316	(14,200)		Andarab
+Khwaja Sabz Posh	AF.FB.KS	1813	84,813		
+Khwaja Umari	AF.GZ.KO	0603	(14,100)		Bahram, Waeez Shahid
+Kishim	AF.BD.KI	1102	84,920		
+Kishindih	AF.BK.KI	1610	61,397		
+Kiti	AF.DK.KI	3406			Kajran, OZ
+Koh Band	AF.KP.KB	0203	19,423		
+Kohi Safi	AF.PV.KS	0309	16,833		
+Kohistan	AF.BD.KS	1119	(12,100)		Baharak
+Kohistan	AF.FB.KO	1805	37,659		
+Kohistan	AF.KP.PA	0202	99,164		
+Kohistanat	AF.SP.KO	3103	61,397		
+Kohsan	AF.HR.KN	2008	32,479	Kuhestan	
+Kot	AF.NG.KO	0822	(35,400)		Rodat
+Kuf Ab	AF.BD.KA	1120	(16,400)		Khwahan
+Kunduz	AF.KZ.KU	1401	240,734		
+Kuran wa Munjan	AF.BD.KM	1104	8,093		
+Kushk	AF.HR.KU	2006	70,461		
+Kushki Kuhna	AF.HR.KK	2016	34,529		
+Kuz Kunar	AF.NG.KK	0819	49,528		
+Lal Pur	AF.NG.LP	0815	14,999		
+Lal wa Sarjangal	AF.GR.LS	2707	94,200		
+Lashkar Gah	AF.HM.LA	2301	82,115		
+Lash wa Juwayn	AF.FH.LJ	2109	26,436		
+Lija Mangal	AF.PT.LM	0719	23,523		Lazha Ahmad Khel
+Mahmud Raqi	AF.KP.MR	0201	58,376		
+Malistan	AF.GZ.MA	0606	65,282		
+Mandol	AF.NR.MA	3004	22,984		
+Mando Zayi	AF.KT.MZ	3206	33,234		
+Marawara	AF.KR.MA	1002	16,941		
+Mardyan	AF.JW.MA	1707	38,414		
+Markazi Bihsud	AF.VR.MB	0404	105,206		
+Marmul	AF.BK.MM	1615	9,711		
+Maruf	AF.KD.MR	2413	27,408	Khugyanay	
+Mata Khan	AF.PK.MK	2915	20,718		
+Maydan Shahr	AF.VR.MS	0401	32,047		
+Maymana	AF.FB.MA	1801	56,973		
+Maywand	AF.KD.MY	2407	55,463		
+Mazari Sharif	AF.BK.MS	1601	175,344		
+Mihtarlam	AF.LA.MI	0901	115,565		
+Mingajik	AF.JW.MI	1704	40,356		
+Miramor	AF.DK.MI	3407			Shahristan, OZ
+Mir Bacha Kot	AF.KB.MK	0103	55,139		
+Miya Nishin	AF.KD.MN	2414	(12,600)		Shah Wali Kot
+Mizan	AF.ZB.MI	2505	11,330		
+Muhammad Agha	AF.LW.MA	0505	67,116		
+Muhmand Dara	AF.NG.MD	0814	32,911	Batsawul	
+Muqur	AF.BG.MQ	1907	19,099		
+Muqur	AF.GZ.MU	0608	36,472		
+Murghab	AF.BG.MR	1906	50,283		
+Musa Khel	AF.KT.MK	3205	27,192		
+Musa Qala	AF.HM.MQ	2304	49,096		
+Musayi	AF.KB.MU	0114	20,825		
+Nad Ali	AF.HM.NA	2308	97,977		
+Nadir Shah Kot	AF.KT.NS	3208	16,617		
+Nahrin	AF.BL.NA	1309	56,542		
+Nahri Sarraj	AF.HM.NS	2302	96,466		Gerishk
+Nahri Shahi	AF.BK.NS	1602	36,364		
+Namak Ab	AF.TK.NA	1217	(8,800)		Taluqan
+Narang	AF.KR.NB	1012	22,552	Narang wa Badil	
+Nari	AF.KR.NA	1005	13,596		
+Nawa	AF.GZ.NA	0610	24,710		
+Nawa-i-Barak Zayi	AF.HM.NB	2309	77,043		
+Naw Bahar	AF.ZB.NB	2511			Shamul Zayi, Shinkay; Nawa,GZ
+Nawur	AF.GZ.NR	0604	76,072	Doabi	
+Naw Zad	AF.HM.NZ	2306	42,190		
+Nazyan	AF.NG.NA	0811	7,985		
+Nesh	AF.KD.NE	2415	11,114		OZ
+Nijrab	AF.KP.NI	0204	94,632		
+Nika	AF.PK.NI	2913	10,359		
+Nili	AF.DK.NI	3401			Daykundi, OZ
+Nirkh	AF.VR.NI	0408	38,306		
+Nurgal	AF.KR.NU	1014	27,839		
+Nurgaram	AF.NR.NG	3008			Kamdesh
+Nuristan	AF.NR.NU	3001	50,823		Paroon
+Obe	AF.HR.OB	2012	50,391		
+Omna	AF.PK.OM	2907	10,035		
+Pachir wa Agam	AF.NG.PA	0807	31,292		
+Paghman	AF.KB.PA	0108	117,615		
+Panjab	AF.BM.PA	2805	65,821		
+Panjwayi	AF.KD.PA	2408	104,451		
+Paryan	AF.PJ.PA	3304			Hisa-i-Awali Panjsher
+Pasaband	AF.GR.PA	2706	65,821		
+Pashtun Kot	AF.FB.PK	1802	157,324		
+Pashtun Zarghun	AF.HR.PZ	2004	76,504		
+Puli Alam	AF.LW.PA	0501	86,323		
+Puli Hisar	AF.BL.PH	1302	(24,200)		Andarab
+Puli Khumri	AF.BL.PK	1301	164,338		
+Pur Chaman	AF.FH.PC	2104	38,414		
+Pusht Rod	AF.FH.PR	2111	32,263		
+Qadis	AF.BG.QD	1903	62,908		
+Qala-i-Kah	AF.FH.QK	2108	21,365		
+Qala-i-Naw	AF.BG.QN	1901	37,982		
+Qalandar	AF.KT.QA	3212	5,935		
+Qalat	AF.ZB.QA	2501	28,379	Qalat-e Ghilzay	
+Qalay-i-Zal	AF.KZ.QZ	1403	58,268		
+Qarabagh	AF.GZ.QA	0613	109,307		
+Qarabagh	AF.KB.QB	0105	77,583		
+Qaramqol	AF.FB.QQ	1810	16,833		
+Qarghayi	AF.LA.QA	0902	93,445		
+Qarqin	AF.JW.QA	1705	62,476		
+Qaysar	AF.FB.QA	1804	120,853		
+Qurghan	AF.FB.QU	1814	(52,500)		Andkhoy
+Qush Tepa	AF.JW.SC	1711	(14,300)		Shibirghan
+Ragh	AF.BD.RA	1112	37,443		
+Rashidan	AF.GZ.RA	0617	(17,800)		Bahram, Waeez Shahid
+Reg	AF.HM.RE	2314	21,797		Khanashin
+Reg	AF.KD.RE	2409	1,619		
+Rodat	AF.NG.RO	0809	87,402		
+Rukha	AF.PJ.RU	3307			Hisa-i-Duwumi Panjsher, Panjsher
+Rustaq	AF.TK.RU	1208	139,628		
+Ruyi Du Ab	AF.SM.RA	1505	35,069		
+Sabari	AF.KT.SB	3209	30,105		
+Saghar	AF.GR.SA	2704	27,084		
+Salang	AF.PV.SL	0303	22,228		
+Sangcharak	AF.SP.SA	3102	135,204		
+Sangin	AF.HM.SA	2313	49,636		
+Sangi Takht	AF.DK.ST	3408			Daykundi, OZ
+Sar Hawza	AF.PK.SH	2914	19,207		
+Sari Pul	AF.SP.SP	3101	140,383		
+Sarobi	AF.PK.SB	2908	10,359		
+Sayd Abad	AF.VR.SA	0407	78,123		
+Sayd Khel	AF.PV.SK	0310	(43,600)		Jabalussaraj
+Sayghan	AF.BM.SA	2807	(16,800)		Kahmard, BL
+Sayid Karam	AF.PT.SK	0722	75,425		
+Sayyad	AF.SP.SY	3106	43,593		
+Shahidi Hassas	AF.OZ.SH	2608	50,283		
+Shahjoy	AF.ZB.SJ	2502	48,449		
+Shahrak	AF.GR.SH	2702	59,995		
+Shahri Buzurg	AF.BD.SB	1113	41,651		
+Shahristan	AF.DK.SR	3409	107,580		OZ
+Shah Wali Kot	AF.KD.SW	2403	35,932		
+Shakardara	AF.KB.SD	0107	80,281		
+Shamal	AF.KT.SM	3213	8,417		Shamul, PT
+Shamulzayi	AF.ZB.SZ	2509	37,011		
+Sharan	AF.PK.SN	2901	52,549	Zareh Sharan	
+Shaygal wa Shiltan	AF.KR.SS	1007	(15,400)		Chapa Dara
+Shekh Ali	AF.PV.SA	0306	27,731		
+Sherzad	AF.NG.SZ	0804	47,801		
+Shibar	AF.BM.SH	2802	26,544		
+Shibirghan	AF.JW.SH	1701	145,994		
+Shib Koh	AF.FH.SK	2110	16,401		
+Shighnan	AF.BD.SG	1109	23,631		
+Shiki	AF.BD.SK	1121	(26,600)		Fayz Abad
+Shindand	AF.HR.SH	2014	110,602		
+Shinkay	AF.ZB.SK	2507	19,531		
+Shinwar	AF.NG.SW	0813	35,069		
+Shinwari	AF.PV.SH	0304	29,134		
+Shirin Tagab	AF.FB.ST	1808	64,958		
+Sholgara	AF.BK.SL	1609	105,638		
+Shorabak	AF.KD.SR	2410	9,496		
+Shortepa	AF.BK.SR	1604	35,932		
+Shuhada	AF.BD.SD	1122	(31,900)		Baharak
+Shutul	AF.PJ.SH	3305			Panjsher
+Shwak	AF.PT.SW	0703	7,230		
+Sirkanay	AF.KR.SI	1016	21,797		
+Sozma Qala	AF.SP.SQ	3105	47,046		
+Spera	AF.KT.SP	3204	15,214		
+Spin Boldak	AF.KD.SB	2411	40,464		
+Surkhi Parsa	AF.PV.SP	0307	45,751		
+Surkh Rod	AF.NG.SR	0802	110,278		
+Surobi	AF.KB.SU	0112	68,843		
+Tagab	AF.BD.TA	1123	(22,600)		Fayz Abad
+Tagab	AF.KP.TA	0205	60,966		
+Tala wa Barfak	AF.BL.TB	1305	20,610		
+Taluqan	AF.TK.TA	1201	172,107		
+Tani	AF.KT.TA	3203	33,234		
+Tarnak wa Jaldak	AF.ZB.TJ	2506	14,135		
+Taywara	AF.GR.TA	2705	69,706		
+Tere Zayi	AF.KT.TZ	3207	27,623		
+Tirin Kot	AF.OZ.TK	2601	62,692		
+Tishkan	AF.BD.TI	1124	(22,800)		Kishim
+Tulak	AF.GR.TU	2703	40,788		
+Turwo	AF.PK.TU	2917	(1,700)		Wazakhwa
+Unaba	AF.PJ.UN	3306	(50,900)	Panjsher	Panjsher
+Urgun	AF.PK.UR	2911	45,751		
+Waghaz	AF.GZ.WA	0618	(27,900)		Muqur
+Wakhan	AF.BD.WA	1106	13,164	Khandood	
+Wali Muhammadi Shahid	AF.GZ.WM	0619	(17,100)		Waeez Shahid, Ghazni
+Wama	AF.NR.WM	3006	7,985		
+Waras	AF.BM.WA	2806	100,135		
+Warduj	AF.BD.WJ	1125	(16,900)		Baharak
+Warsaj	AF.TK.WA	1205	29,566		
+Washer	AF.HM.WA	2307	12,841		
+Wata Pur	AF.KR.WP	1008	(17,200)		Asad Abad
+Waygal	AF.NR.WG	3003	8,417		
+Waza Khwa	AF.PK.WA	2904	20,825		
+Wor Mamay	AF.PK.WO	2905	2,913		
+Yaftali Sufla	AF.BD.YS	1126	(39,700)		Fayz Abad
+Yahya Khel	AF.PK.YY	2918	(14,600)		Zarghun Shahr
+Yakawlang	AF.BM.YA	2804	79,957		
+Yamgan	AF.BD.YG	1127	(20,700)		Baharak
+Yangi Qala	AF.TK.YQ	1210	72,404		
+Yawan	AF.BD.YW	1128	(26,900)		Ragh
+Yosuf Khel	AF.PK.YK	2919	(11,400)		Zarghun Shahr
+Zana Khan	AF.GZ.ZK	0616	10,359	Dado	
+Zaranj	AF.NM.ZA	2201	42,298		
+Zarghun Shahr	AF.PK.ZS	2902	59,024		
+Zari	AF.BK.ZA	1603	(31,400)		Kishindih
+Zebak	AF.BD.ZE	1105	6,582		
+Zhari	AF.KD.ZH	2416	(49,500)		Maywand, Panjwayi
+Zinda Jan	AF.HR.ZJ	2010	40,140		
+Ziruk	AF.PK.ZI	2912	16,078		
+Zurmat	AF.PT.ZU	0702	93,769		
